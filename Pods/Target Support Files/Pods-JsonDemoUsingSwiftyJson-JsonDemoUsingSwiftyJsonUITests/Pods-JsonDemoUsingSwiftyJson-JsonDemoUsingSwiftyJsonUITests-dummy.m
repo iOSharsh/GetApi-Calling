@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_JsonDemoUsingSwiftyJson_JsonDemoUsingSwiftyJsonUITests : NSObject
+@end
+@implementation PodsDummy_Pods_JsonDemoUsingSwiftyJson_JsonDemoUsingSwiftyJsonUITests
+@end
